@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/abdurrahmankaya71/abdurrahmankaya71/assets/99409895/67be3ce1-a0ae-4667-ae8a-643a7cec9892)
+![github-header-image (2)](https://github.com/abdurrahmankaya71/abdurrahmankaya71/assets/99409895/38c423c3-9993-4cf4-92de-f85c5d08d22f)
 
 
 
