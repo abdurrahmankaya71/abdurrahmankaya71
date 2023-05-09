@@ -1,6 +1,7 @@
-![github-header-image (3)](https://github.com/abdurrahmankaya71/abdurrahmankaya71/assets/99409895/13e24700-76e9-408a-aa62-9099182297e5)
+![github-header-image (4)](https://github.com/abdurrahmankaya71/abdurrahmankaya71/assets/99409895/ec30df09-3a6e-43eb-ab52-9c369d4ec238)
 
-
+<h1 align="center">Hi 👋, I'm Abdurrahman Kaya</h1>
+<h3 align="center">A passionate full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmankaya71&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmankaya71" /> </p>
 
